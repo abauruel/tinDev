@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+html,
+body,
+#root {
+  height: 100%;
+
+  background: linear-gradient(
+    to bottom,
+    #ffb95b 0%,
+    #f6652b 40%,
+    #b22e21 70%,
+    #981918 100%
+  );
+}
+
+body {
+  background: -webkit-linear-gradient(
+    top,
+    #ffb95b 0%,
+    #f6652b 40%,
+    #b22e21 75%,
+    #981918 100%
+  );
+  background: -moz-linear-gradient(
+    top,
+    #ffb95b 0%,
+    #f6652b 40%,
+    #b22e21 75%,
+    #981918 100%
+  );
+}
+
+body,
+input,
+button {
+  font-family: Arial, Helvetica, sans-serif;
+}
