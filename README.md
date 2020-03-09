@@ -1,8 +1,8 @@
 # TinDev
 Tinder de Dev's
 
-Projeto completo contendo, **backend**, **frontend** e **mobile**. Utilizando recurso de realtime do socket.io para comunicação via websocket entre cliente e servidor. 
-Consumindo api de usuários do github 
+Project complete, **backend**, **frontend** e **mobile**. using realtime with [socket.io](https://socket.io/) for comunication using websocket between Server and client 
+consume API user of GitHub
 
 ## Frontend
 ![Frontend](https://github.com/abauruel/tinDev/blob/master/frontEndTindev.png "Frontend TinDev")
